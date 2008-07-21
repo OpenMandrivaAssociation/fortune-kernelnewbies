@@ -1,6 +1,6 @@
 %define name fortune-kernelnewbies
 %define version 20060120
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: The best IRC moments by kernel hacker
 Name: %{name}
