@@ -9,7 +9,7 @@ Release: %{release}
 Source0: kernelnewbies-fortunes.tar.bz2
 License: GPL
 Group: Toys
-URL: http://kernelnewbies.org/kernelnewbies-fortunes.tar.gz
+URL: https://kernelnewbies.org/kernelnewbies-fortunes.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Requires: fortune-mod
